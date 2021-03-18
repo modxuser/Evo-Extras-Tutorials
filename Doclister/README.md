@@ -1,1 +1,1 @@
-Tutorials for DocLister
+Tutorials for DocLister and its dependants / sub-snippets
